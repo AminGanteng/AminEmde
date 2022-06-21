@@ -14,7 +14,7 @@ Hai ${ye} Lagi Nyari Sc Ya?
 Mending Follow Ig Owner
 instagram.com/saya_asroriamim
 
-_*Jangan Lupa Di Subscribe*_`
+_*Jangan Lupa Di Follow*_`
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
 }
 handler.help = ['sc', 'sourcecode']
